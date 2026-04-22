@@ -1,0 +1,4 @@
+# Fichiers et dossiers à ignorer par git
+/var/
+!/var/.gitkeep
+/var/tailwind/
