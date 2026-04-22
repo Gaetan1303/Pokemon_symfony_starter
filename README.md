@@ -13,8 +13,6 @@ Bienvenue sur le projet **Pokémon Symfony Starter** ! Ce projet est une base d�
 
 - PHP >= 8.4
 - Composer
-- Node.js & npm (pour le build front)
-- Symfony CLI (optionnel mais recommandé)
 
 ## Installation
 
