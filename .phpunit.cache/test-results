@@ -1,0 +1,1 @@
+{"version":2,"defects":[],"times":{"App\\Tests\\Entity\\PokedexTest::testSetAndGetId":0,"App\\Tests\\Entity\\PokedexTest::testSetAndGetName":0,"App\\Tests\\Entity\\PokedexTest::testSetAndGetImageURL":0}}
